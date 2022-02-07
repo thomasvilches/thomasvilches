@@ -3,7 +3,7 @@
 - :pushpin: PhD in Biometrics
 - 🔭 I’m currently working on Mathematical Epidemiology at York University - Canada
 - 🌱 I’m currently learning more about Python, Data Science and Machine Learning
-- 😄 Pronouns: He/Him/His
+- Pronouns: He/Him/His
 
 
 <div style="display: inline_block"><br>
