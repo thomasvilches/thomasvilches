@@ -30,6 +30,11 @@
   <a href = "mailto:thomvilches@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
   
+  ### Just a nice plot -  Deaths and Cases of COVID-19 in Brazilian States
+  
+  ![mortescasos-en](https://user-images.githubusercontent.com/31737669/157160613-55e5a4e8-6d98-4a91-ac0d-6f79d83a2f49.gif)
+
+Data source: W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
  
  <!---
 <div> 
