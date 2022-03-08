@@ -32,8 +32,8 @@
   
   ### Just a nice plot -  Deaths and Cases of COVID-19 in Brazilian States
   
-  ![mortescasos-en](https://user-images.githubusercontent.com/31737669/157161163-53fb7b58-6cdb-46e7-a15f-3c0f8179a444.gif)
-
+  ![mortescasos-en](https://user-images.githubusercontent.com/31737669/157274817-84da4fb9-54fa-4a66-a551-87b320dd40ba.gif)
+  
 
 Date: 2022-03-07
 
