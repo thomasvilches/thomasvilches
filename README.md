@@ -30,7 +30,20 @@
   <a href = "mailto:thomvilches@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
   
-  ### Just a nice plot -  Deaths and Cases of COVID-19 in Brazilian States
+  
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thomasvilches&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvilches&layout=compact&theme=vision-friendly-dark" alt="thomasvilches's most languages"/>
+</p>
+
+<br><br>
+  
+
+### Deaths and Cases of COVID-19 in Brazilian States
   
   ![mortescasos-en](https://user-images.githubusercontent.com/31737669/157274817-84da4fb9-54fa-4a66-a551-87b320dd40ba.gif)
   
@@ -38,6 +51,19 @@
 Date: 2022-03-07
 
 Data source: W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
+
+### Deaths and Cases of COVID-19 in US states
+
+According to election result
+
+  ![mortescasos-en-US](https://user-images.githubusercontent.com/31737669/157361790-98f76436-1c64-40c6-838f-dbd68f09961e.gif)
+
+
+Date: 2022-03-08
+
+  - [Vaccination data](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)
+  - [Deaths and cases data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/rolling-averages/us-states.csv)
+  - [Election data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX)
  
  <!---
 <div> 
