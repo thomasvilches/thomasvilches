@@ -1,8 +1,9 @@
 ## Hello
 ### My name is Thomas N Vilches
 - :pushpin: PhD in Biometrics
-- 🔭 I’m currently working on Mathematical Epidemiology at York University - Canada
-- 🌱 I’m currently learning more about Python, Data Science and Machine Learning
+- 🔭 Two years as post-doctoral researcher @ IMECC-UNICAMP and nine months @ York University.
+- 🌱 I am currently member of NewFields Brasil.
+- 📖 I’m currently learning more about Python, Data Science and Machine Learning
 - Pronouns: He/Him/His
 
 
