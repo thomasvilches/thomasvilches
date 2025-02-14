@@ -2,7 +2,7 @@
 ### My name is Thomas N Vilches
 - :pushpin: PhD in Biometrics
 - 🔭 Two years as post-doctoral researcher @ IMECC-UNICAMP and nine months @ York University.
-- 🌱 I am currently member of NewFields Brasil.
+- 🌱 I am currently an Assistant Professor @ IBB-UNESP.
 - 📖 I’m currently learning more about Python, Data Science and Machine Learning
 - Pronouns: He/Him/His
 
